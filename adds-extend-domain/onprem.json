@@ -57,7 +57,7 @@
             },            
             "osType": "windows",
             "adminUsername": "testuser",
-            "adminPassword": "",
+            "adminPassword": "a123456!B",
             "nics": [
               {
                 "subnetName": "mgmt",
@@ -75,7 +75,7 @@
             "namePrefix": "ad",
             "size": "Standard_DS3_v2",
             "adminUsername": "testadminuser",
-            "adminPassword": "",
+            "adminPassword": "a123456!B",
             "virtualNetwork": {
               "name": "onpremise-vnet"
             },
